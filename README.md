@@ -31,4 +31,21 @@ The Government Scheme Assistant uses AI to retrieve information and present it i
 - SDG 16: Peace, Justice & Strong Institutions
 
 ## Team Members
-- M Umme Kulsum  
+- M Umme Kulsum
+    
+##  Project Screenshots
+
+### 1️. Home Page
+![Home Page](screenshots/home_page.png)
+
+### 2️. Scheme Search
+![Scheme Search](screenshots/scheme_search.png)
+
+### 3️. Result Display
+![Result Display](screenshots/result_display.png)
+
+### 4️. Online Fetch (When Scheme Not Found Locally)
+![Online Fetch](screenshots/online_fetch.png)
+
+### 5️. Online Fetch Result (Structured Output)
+![Online Fetch Result](screenshots/online_fetch_result.png)
