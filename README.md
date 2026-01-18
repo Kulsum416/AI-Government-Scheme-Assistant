@@ -30,9 +30,6 @@ The Government Scheme Assistant uses AI to retrieve information and present it i
 - SDG 10: Reduced Inequalities
 - SDG 16: Peace, Justice & Strong Institutions
 
-## Team Members
-- M Umme Kulsum
-    
 ##  Project Screenshots
 
 ### 1️. Home Page
