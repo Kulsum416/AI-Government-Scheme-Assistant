@@ -50,3 +50,20 @@ The Government Scheme Assistant uses AI to retrieve information and present it i
 
 ### 5️. Online Fetch Result (Structured Output)
 ![Online Fetch Result](screenshots/online_fetch_result.png)
+
+## How to Run the Project
+1. Clone the repository:
+https://github.com/Kulsum416/AI-Government-Scheme-Assistant
+
+2. Navigate to the project folder:
+cd AI-Powered Government Scheme Assistant
+
+3. Install dependencies:
+pip install -r requirements.txt
+
+4. Run the Streamlit app:
+streamlit run app.py
+
+5. Enter any scheme name and click **Search** to get information.
+
+
