@@ -3,6 +3,10 @@
 ## Project Overview
 This project is an AI-powered chatbot designed to help users easily understand Indian government schemes. The assistant provides structured, clear, and uniform information so that citizens can quickly know whether a scheme is useful for them.
 
+This project demonstrates the practical use of AI and Retrieval-Augmented Generation (RAG)
+to improve access to public welfare information. It focuses on real-world usability,
+responsible AI practices, and social impact rather than complex model training.
+
 ## Problem Statement
 Many citizens are unable to benefit from government schemes due to lack of awareness and complicated information scattered across multiple sources. There is a need for a simple AI-based system that presents scheme information in an understandable format.
 
